@@ -1,0 +1,3 @@
+module GOLANG-SIMPLE-UNIT-TEST
+
+go 1.18
